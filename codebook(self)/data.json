@@ -1,0 +1,166 @@
+{
+  "dataset_metadata": {
+    "source": "CRM_Export_2026",
+    "extracted_date": "2026-11-08",
+    "total_records": 10
+  },
+  "customers": [
+    {
+      "id": "EMP-101",
+      "full_name": "  john doe ",
+      "email": "JOHN.DOE@example.com",
+      "phone_number": "+1-555-0192",
+      "signup_date": "04/12/2025",
+      "status": "Active",
+      "purchase_history": {
+        "total_spent": 1250.50,
+        "items_bought": ["Laptop Sleeve", "Wireless Mouse"]
+      },
+      "address": {
+        "city": "New York",
+        "zip": "10001"
+      }
+    },
+    {
+      "id": "EMP-102",
+      "full_name": "Jane Smith",
+      "email": "jane.smith@example.net",
+      "phone_number": "555.014.8821",
+      "signup_date": "2025-12-01",
+      "status": "active",
+      "purchase_history": {
+        "total_spent": "340.00 USD",
+        "items_bought": ["Mechanical Keyboard"]
+      },
+      "address": {
+        "city": "San Francisco",
+        "zip": "94107"
+      }
+    },
+    {
+      "id": "emp-103",
+      "full_name": "BOB JOHNSON",
+      "email": "bjohnson@workplace.org",
+      "phone_number": null,
+      "signup_date": "Nov 15, 2025",
+      "status": "INACTIVE",
+      "purchase_history": {
+        "total_spent": 0,
+        "items_bought": []
+      },
+      "address": {
+        "city": "Chicago",
+        "zip": "60601"
+      }
+    },
+    {
+      "id": "EMP-104",
+      "full_name": "Alice Cooper",
+      "email": "alice.c@example.com",
+      "phone_number": "+1 (555) 382-9100",
+      "signup_date": "2026/01/10",
+      "status": "Active",
+      "purchase_history": {
+        "total_spent": 890.25,
+        "items_bought": ["Monitor 27-inch", "HDMI Cable", "Desk Mat"]
+      },
+      "address": {
+        "city": "Seattle",
+        "zip": "98101"
+      }
+    },
+    {
+      "id": "EMP-101",
+      "full_name": "  john doe ",
+      "email": "JOHN.DOE@example.com",
+      "phone_number": "+1-555-0192",
+      "signup_date": "04/12/2025",
+      "status": "Active",
+      "purchase_history": {
+        "total_spent": 1250.50,
+        "items_bought": ["Laptop Sleeve", "Wireless Mouse"]
+      },
+      "address": {
+        "city": "New York",
+        "zip": "10001"
+      }
+    },
+    {
+      "id": "EMP-105",
+      "full_name": "Charlie Brown",
+      "email": "charlie@peanuts.co",
+      "phone_number": "5550198765",
+      "signup_date": "2026-02-20",
+      "status": "pending",
+      "purchase_history": null,
+      "address": {
+        "city": null,
+        "zip": "02138"
+      }
+    },
+    {
+      "id": "EMP-106",
+      "full_name": "Diana Prince",
+      "email": "diana.prince@themyscira.gov",
+      "phone_number": "+1-555-9988",
+      "signup_date": "13-03-2026",
+      "status": "Active",
+      "purchase_history": {
+        "total_spent": 4500.00,
+        "items_bought": ["Ergonomic Chair"]
+      },
+      "address": {
+        "city": "Washington DC",
+        "zip": "20001"
+      }
+    },
+    {
+      "id": "EMP-107",
+      "full_name": "Evan Wright",
+      "email": "evan.w@example.com",
+      "phone_number": "N/A",
+      "signup_date": "2026-03-31",
+      "status": "inactive",
+      "purchase_history": {
+        "total_spent": 45.5,
+        "items_bought": ["USB-C Hub"]
+      },
+      "address": {
+        "city": "Austin",
+        "zip": "78701"
+      }
+    },
+    {
+      "id": "EMP-108",
+      "full_name": "Fiona Gallagher",
+      "email": "fiona@southside.net",
+      "phone_number": "+1 (555) 777-8899",
+      "signup_date": "Invalid Date",
+      "status": "Active",
+      "purchase_history": {
+        "total_spent": 210.00,
+        "items_bought": ["Webcam"]
+      },
+      "address": {
+        "city": "Chicago",
+        "zip": "60609"
+      }
+    },
+    {
+      "id": "EMP-102",
+      "full_name": "Jane Smith",
+      "email": "jane.smith@example.net",
+      "phone_number": "555.014.8821",
+      "signup_date": "2025-12-01",
+      "status": "active",
+      "purchase_history": {
+        "total_spent": "340.00 USD",
+        "items_bought": ["Mechanical Keyboard"]
+      },
+      "address": {
+        "city": "San Francisco",
+        "zip": "94107"
+      }
+    }
+  ]
+}
